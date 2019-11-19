@@ -1,0 +1,14 @@
+/*
+This CSS resource incorporates links to font software which is the valuable copyrighted property of Monotype and/or its suppliers. You may not attempt to copy, install, redistribute, convert, modify or reverse engineer this font software. Please contact Monotype with any questions regarding Web Fonts: http://www.fontshop.com
+*/    
+
+@font-face{
+    font-family:"dinpromedium";
+    src:url("../fonts/2572d6df-ebb8-496d-b19d-70803f419e2e.eot?#iefix");
+    src:url("../fonts/2572d6df-ebb8-496d-b19d-70803f419e2e.eot?#iefix") format("eot"),url("../fonts/759090a0-6416-4c31-a612-39dd398eefed.woff2") format("woff2"),url("../fonts/12fb0216-62e0-4aa3-bf11-08a70b52855f.woff") format("woff"),url("../fonts/8574dbd5-dbf1-44bd-b96d-b9fdd7b64b04.ttf") format("truetype");
+}
+@font-face{
+    font-family:"dinpro-regularregular";
+    src:url("../fonts/a83162ba-1f48-4900-abcd-3801bbf29f89.eot?#iefix");
+    src:url("../fonts/a83162ba-1f48-4900-abcd-3801bbf29f89.eot?#iefix") format("eot"),url("../fonts/a1838926-0f17-4822-aac0-be650eb391d5.woff2") format("woff2"),url("../fonts/7dadd2b5-85af-44bb-819a-2d86a5faa30d.woff") format("woff"),url("../fonts/15bb0e42-f62b-4579-b1ba-8e4e1d203bb5.ttf") format("truetype");
+}
