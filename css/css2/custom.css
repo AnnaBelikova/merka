@@ -184,7 +184,7 @@ h1.boxTitel { padding-bottom: 20px; }
 .linkeSpalte { padding-top: 25px; padding-left: 0px; padding-right: 30px;  }
 .linkeSpalteCon { padding-top: 25px; padding-left: 0px; padding-right: 23px; padding-bottom: 234px; }
 .startVideo { margin-top: 5%; height: 400px; }
-.karte { margin-top: 4%; padding-top: 1%; margin-bottom: 92px; background-image: url(http://www.strabag-cdn.net/comp/_images/strabag-karte.gif); background-repeat: no-repeat; background-position:40% 70%; background-color: #3fa9eb; height: 550px; font-family: 'dinpro-regularregular'; font-weight:bold; background-attachment: fixed;}
+.karte { margin-top: 4%; padding-top: 1%; margin-bottom: 92px; background-repeat: no-repeat; background-position:40% 70%;  height: 550px; font-family: 'dinpro-regularregular'; font-weight:bold; background-attachment: fixed; background-color:white;}
 .karte img { margin:auto; }
 .karte h1 { margin-bottom: 5%; }
 /*.row .footerKontakt { margin:auto; } */
